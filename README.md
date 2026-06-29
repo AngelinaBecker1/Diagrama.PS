@@ -1,1 +1,1 @@
-.
+![DIAGRAMA PLAYSTATION](/content/DIAGRAMA PLAYSTATION.drawio.svg)
